@@ -1,0 +1,13 @@
+admin username:sam
+admin password:admin
+
+ 1. copy everything and paste in C:\xampp\htdocs
+ 
+ 2. create "admin" in database and import files from database
+
+ 3. open browser then type url localhost/admin/login.php to enter login page then type username and password
+ 
+ 4.  to enter blog localhost/admin/index.php
+ 
+ 
+ thank you.....
